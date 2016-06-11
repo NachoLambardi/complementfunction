@@ -1,0 +1,29 @@
+.socratesimg {
+  float: left;
+  width: 150px;
+  height: 150px;
+  margin: 10px;
+  border: 3px solid black;
+  padding: 5px; }
+
+body {
+  color: #007777;
+  background: #700; }
+
+h1 {
+  text-align: center;
+  font-size: 50px; }
+
+.para1 {
+  font-size: 25px;
+  margin: auto;
+  text-align: justify;
+  margin-left: 30px; }
+
+.para2 {
+  font-size: 25px;
+  margin: auto;
+  text-align: justify;
+  margin-left: 30px; }
+
+/*# sourceMappingURL=colorpalette.css.map */
